@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Harborage Academy - Myanmar</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f9f9f9; color: #333; }
+    header { background: #005a87; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #003f5c; padding: 10px; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; max-width: 1000px; margin: auto; }
+    h2 { color: #005a87; }
+    footer { background: #003f5c; color: #fff; text-align: center; padding: 15px; margin-top: 40px; }
+    .programs ul { list-style: disc; margin-left: 20px; }
+    .contact p { margin: 5px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Harborage Academy – Myanmar</h1>
+    <p>Helping Myanmar Youth Build Confidence, Direction, and Skills for a Brighter Future</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#programs">Programs</a>
+    <a href="#coach">Meet Your Coach</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>Our Mission & Vision</h2>
+    <p><strong>Mission:</strong> To guide Myanmar youth toward clarity, confidence, and purpose through accessible life coaching, soft skills training, and academic support.</p>
+    <p><strong>Vision:</strong> A generation of empowered young minds who are self-aware, career-ready, and capable of leading change.</p>
+
+    <h3>Who We Help</h3>
+    <p>We work with youth aged 13–25 who may be facing confusion, stress, lack of motivation, or unclear career paths. Our coaching helps them find clarity and confidence to move forward.</p>
+  </section>
+
+  <section id="programs" class="programs">
+    <h2>Signature Programs</h2>
+    <ul>
+      <li>Life & Academic Success Program</li>
+      <li>Personal Growth & Leadership</li>
+      <li>Future & Career Readiness Program</li>
+      <li>Networking & Confidence Building Program</li>
+      <li>Building Digital Skills</li>
+    </ul>
+
+    <h3>Teaching Format</h3>
+    <p>Our programs are delivered online via Zoom, Telegram, or Viber with supporting materials such as PDF worksheets and PowerPoint slides.</p>
+  </section>
+
+  <section id="coach">
+    <h2>📣 Meet Your Coach – Sir Kaung ⚓</h2>
+    <p>I’m not just a teacher — I’m here to be your guide, big brother, and motivator.</p>
+    <p>Many youth feel lost, unmotivated, or unsure about their future. I’ve been there too — and I turned my challenges into a purpose.</p>
+    <p>That’s why I founded Harborage Academy – Myanmar — a safe place for youth to discover their strengths, set life goals, build confidence, and succeed in school and beyond.</p>
+
+    <ul>
+      <li>Studying Business Management (UK)</li>
+      <li>Certified in Soft Skills, Financial Analysis, Barista & Baking</li>
+      <li>Former student leader, event organizer, and business consultant</li>
+      <li>Passionate about helping Myanmar youth grow with clarity and purpose</li>
+    </ul>
+
+    <p><strong>Ready to grow?</strong> Join my 8-week coaching program: <em>Life & Academic Success</em></p>
+    <p>📩 DM me to register or ask questions</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> +959-444-544-354</p>
+    <p><strong>Email:</strong> ham.org.mm@gmail.com</p>
+    <p><strong>Follow us:</strong> #SirKaung #YouthCoach #HarborageAcademy #MyanmarYouth #LifeSkills #AcademicSuccess #CoachingForTeens</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Harborage Academy – Myanmar | Designed to Empower Youth</p>
+  </footer>
+</body>
+</html>
